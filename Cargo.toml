@@ -1,0 +1,9 @@
+[package]
+name = "eternal_sunshine"
+authors = ["eternalsunshine <eternalsunshine@myeternalsunshine.com>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nannou = "0.19.0"
+log = "0.4.22"

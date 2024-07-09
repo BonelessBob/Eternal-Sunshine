@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e209aacb-f575-4cb6-b7fc-ba1aa6846535" name="Changes" comment="Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BonelessBob"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BonelessBob/Eternal-Sunshine.git",
+    "accountId": "0a2f5b1d-fb92-49d5-9a56-c89892d39684"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="lus651po" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ijoB9uJ1WZhUyhYTlKyWBuAYGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cargo.Run eternal_sunshine.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/plut0/RustroverProjects/eternal_sunshine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "Settings.Markdown"
+  }
+}]]></component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="DFA" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32982045" />
+      <window_info id="Commit" order="1" weight="0.32982045" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.04236111" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.04236111" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3298611" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.4570648" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.2" />
+    </layout>
+  </component>
+  <component name="RunManager" selected="Cargo.Run eternal_sunshine">
+    <configuration name="Run eternal_sunshine" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package eternal_sunshine --bin eternal_sunshine" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test eternal_sunshine" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e209aacb-f575-4cb6-b7fc-ba1aa6846535" name="Changes" comment="" />
+      <created>1720013215739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720013215739</updated>
+      <workItem from="1720013220479" duration="3632000" />
+      <workItem from="1720105562427" duration="6569000" />
+      <workItem from="1720199857995" duration="3408000" />
+      <workItem from="1720525178111" duration="1537000" />
+      <workItem from="1720528621304" duration="203000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1720528771193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720528771193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
